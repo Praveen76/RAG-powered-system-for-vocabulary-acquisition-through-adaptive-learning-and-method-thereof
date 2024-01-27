@@ -24,7 +24,7 @@ The patent related drawings file contains the illustrations of the invention, su
 
 ## Confidentiality Agreement
 
-This repository is subject to a [confidentiality agreement](https://github.com/Praveen76/GenAI-powered-system-for-vocabulary-acquisition-through-adaptive-learning-and-method-thereof/blob/main/Confidentiality%20Agreement.md) between the inventor and the viewers of this repository. The files in this repository are not to be disclosed, copied, or distributed without the prior written consent of the inventor. See the Confidentiality Agreement file for more information.
+This repository is subject to a [confidentiality agreement](https://github.com/Praveen76/RAG-powered-system-for-vocabulary-acquisition-through-adaptive-learning-and-method-thereof/blob/main/Confidentiality%20Agreement.md) between the inventor and the viewers of this repository. The files in this repository are not to be disclosed, copied, or distributed without the prior written consent of the inventor. See the Confidentiality Agreement file for more information.
 
 ## Contact
 

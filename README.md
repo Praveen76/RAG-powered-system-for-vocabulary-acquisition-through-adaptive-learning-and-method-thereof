@@ -32,7 +32,7 @@ For questions or inquiries, feel free to contact me on [Linkedin](https://www.li
 
 ## Related Projects
 
-This repository is part of a larger collection of projects related to patent and research works in the field of machine learning and natural language processing. You can find the parent repository [here](https://github.com/Praveen76/RAG-powered-system-for-vocabulary-acquisition-through-adaptive-learning-and-method-thereof/), which contains links to all the other projects, such as:
+This repository is part of a larger collection of projects related to patent and research works in the field of machine learning and natural language processing. You can find the parent repository [here](https://github.com/Praveen76/Patents-and-Publications/), which contains links to all the other projects, such as:
 
 ## **About Me**:
 I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.

@@ -4,7 +4,7 @@ This repository contains the files related to a patent application for the RAG p
 
 ## Accessing Patent Drafts
 
-To access the detailed content and official status of the patent drafts, please refer to the official Intellectual Property India website using the application number 202411005277 on [Intellectual Property India](https://ipindia.gov.in/)
+To access the detailed content and official status of the patent drafts, please refer to the official Intellectual Property India website using the application number 202411005277 on [Intellectual Property India](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)
 
 
 ## Patent Summary

@@ -2,6 +2,9 @@
 
 This repository contains the files related to a patent application for the RAG powered system for vocabulary acquisition through adaptive learning and method thereof.
 
+## Patent and Publications:
+Please go to following repository called [Patent and Publications](https://github.com/Praveen76/Patents-and-Publications/) to access my all noteworthy patents and publication in the field of Data Science.
+
 ## Accessing Patent Drafts
 
 To access the detailed content and official status of the patent drafts, please refer to the official Intellectual Property India website using the application number 202411005277 on [Intellectual Property India](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)

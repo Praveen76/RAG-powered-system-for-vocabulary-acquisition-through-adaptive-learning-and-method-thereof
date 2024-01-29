@@ -9,9 +9,9 @@ To access the detailed content and official status of the patent drafts, please 
 
 ## Patent Summary
 
-The patent claims to provide a RAG powered system that enhances vocabulary learning experience through information retrieval and generation, using dense vector similarity search, transformer-based encoder blocks, Knowledge Graph Database, and LLMs(large language models).
+The filed patent claims to provide a RAG-powered system that enhances the vocabulary learning experience through information retrieval and generation, using dense vector similarity search, transformer-based encoder blocks, Knowledge Graph Database, and LLMs (large language models).
 
-The system provides a personalised, adaptive, and dynamic learning environment for vocabulary acquisition, leveraging advanced LLMs(large language models), and Reinforcement learning techniques. The system also integrates with third-party applications and digital platforms, offering real-time suggestions and responses.
+The system provides a personalized, adaptive, and dynamic learning environment for vocabulary acquisition, leveraging advanced LLMs (large language models), and Reinforcement learning techniques. The system also integrates with third-party applications and digital platforms, offering real-time suggestions and responses.
 
 ## Patent Complete Specification
 

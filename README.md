@@ -16,6 +16,21 @@ The filed patent claims to provide a RAG-powered system that enhances the vocabu
 
 The system provides a personalized, adaptive, and dynamic learning environment for vocabulary acquisition, leveraging advanced LLMs (large language models), and Reinforcement learning techniques. The system also integrates with third-party applications and digital platforms, offering real-time suggestions and responses.
 
+--- Demo:
+
+[![RAG powered Vocabulary Acquisition system for adaptive learning](https://github.com/Praveen76/IntelliLex_Official/blob/main/IntelliLex_thumbnail.jpg)](https://youtu.be/NjTxQSuceQQ)
+
+---
+
+## 🚀 Features
+
+- **Personalized Vocabulary Learning**: Tailors suggestions based on individual proficiency and learning styles.
+- **Contextual Application**: Integrates vocabulary suggestions into real-world communication for better retention and practical usage.
+- **Seamless Integration**: Works with popular communication platforms like WhatsApp, Messenger, and Instagram.
+- **Adaptive Learning**: Dynamically adjusts difficulty based on user performance and preferences.
+- **Privacy-Focused Design**: Implements data encryption and user consent measures to ensure privacy and security.
+
+---
 ## Patent Complete Specification
 
 The patent complete specification file contains the detailed description of the invention, including the background, summary, detailed description, claims, abstract, and drawings. The file is in PDF format and can be viewed using any PDF reader software.
